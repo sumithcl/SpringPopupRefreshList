@@ -2,7 +2,7 @@ applications:
 - disk_quota: 512M
   host: SpringPopupRefreshList
   name: SpringPopupRefreshList
-  path: PopupRefreshList.war
+  path: SpringPopupRefreshList.war
   domain: mybluemix.net
   instances: 1
   memory: 512M
