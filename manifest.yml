@@ -1,0 +1,9 @@
+applications:
+- disk_quota: 512M
+  host: SpringPopupRefreshList
+  name: SpringPopupRefreshList
+  path: eggsylife-1.0.0-BUILD-SNAPSHOT.war
+  domain: mybluemix.net
+  instances: 1
+  memory: 512M
+  buildpack: liberty-for-java
